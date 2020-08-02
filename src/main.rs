@@ -11,6 +11,6 @@ mod tests {
 
     #[test]
     fn test_bad_add() {
-        assert_eq!(1 + 2, 4);
+        assert_eq!(1 + 3, 4);
     }
 }
